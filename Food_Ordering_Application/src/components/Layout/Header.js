@@ -8,7 +8,7 @@ const Header = (props) => {
         <React.Fragment>
             <header className={classes.header}>
                 <h1>Mito's</h1>
-                <HeaderCartButton/>
+                <HeaderCartButton onClick={props.onShowCart}/>
             </header>
             <div className={classes['main-image']}> 
             {/* a css class with a dash inside of it, so I can't use the dot notation */}
