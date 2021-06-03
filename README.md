@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>React.js Expense Tracker</h1>
+    <h1>React.js Restaurant App</h1>
 </div>
 
 This is a restaurant application using React.js, done as a code-along with Maximilian Schwarzmüller on his [Udemy web course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
